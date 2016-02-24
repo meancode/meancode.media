@@ -1,0 +1,773 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"border-bott",
+				"border-bottom"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"border-bo",
+				"border-bottom-width"
+			],
+			[
+				"border-bot",
+				"border-bottom-color"
+			],
+			[
+				"border-color",
+				"border-bottom-color"
+			],
+			[
+				"border-right",
+				"border-right"
+			],
+			[
+				"border-c",
+				"border-left-color"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 132.0,
+		"last_filter": "Package Control: inst",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 496.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/kxe67/Documents/GitHub/meancode.media"
+	],
+	"file_history":
+	[
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/assets/cwru/css/styles.css",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/template/fluid.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/assets/cwru/css/styles.dev.css",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/template/main.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/template/footer3.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/index.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/assets/cwru/css/styles.dev.min.css",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/template/footer2.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/global/_colors.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/bootstrap/_variables.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/global/_variables.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/global/components.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/global/components/_typography.scss",
+		"/C/Users/kxe67/Downloads/custom.css",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/layouts/layout3/_variables.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/global/components/_colors.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/template/float-test.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/template/no-dept-main.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/template/no-dept-fluid.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/layouts/layout3/themes/default.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/global/components/_buttons.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/ui_socicons.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/layouts/layout3/themes/_base.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/layouts/layout3/layout/_footer.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/layouts/layout3/layout.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/template/nth-child.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/template/last-child.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/assets/layout/css/layout.css",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/layouts/layout3/layout/_header.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/layouts/mega-menu/_mega-menu-light.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/assets/layout/scripts/layout.js",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/assets/layout/scripts/layout.min.js",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/global/_bootstrap-override.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/global/_components.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/global/components/_headings.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/layouts/mega-menu/base/_mega-menu.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/layouts/mega-menu/_mega-menu-light-mobile.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/layouts/mega-menu/_mega-menu-dark.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016.wiki/Navigation.md",
+		"/C/Users/kxe67/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/assets/global/scripts/app.js",
+		"/C/Users/kxe67/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/C/Users/kxe67/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/assets/cwru/img/browserconfig.xml",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/assets/cwru/img/manifest.json",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016.wiki/Page-Header.md",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/assets/global/plugins/font-awesome/css/font-awesome.css",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016.wiki/_Sidebar.md",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016.wiki/Skeleton.md",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016.wiki/Site Configuration.md",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/bootstrap/_type.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/assets/cwru/css/styles.min.css",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/layouts/layout3/layout/_print.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/charts_flotcharts.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/bootstrap/_normalize.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/ui_page_progress_style_2.html",
+		"/C/Users/kxe67/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016.wiki/Breakpoints.md",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/gulpfile.js",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/bootstrap/_responsive-utilities.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016.wiki/Documentation-Template.md",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/assets/global/plugins/bootstrap/css/bootstrap.css",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/sass/pages/portfolio.scss",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016.wiki/Updates-to-T4-Page-Layouts.md",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_cwru/colors-cwru.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016.wiki/Updating-CWRU-Framework.md",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016.wiki/Updates to T4 Page Layouts.md",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_cwru/pretty/colors-cwru.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/app_calendar.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/app_inbox.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/app_ticket.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/app_ticket_config.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/app_ticket_details.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/app_ticket_staff.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/app_todo.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/app_todo_2.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/charts_amcharts.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/charts_echarts.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/charts_flowchart.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/charts_google.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/charts_highcharts.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/charts_highmaps.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/charts_highstock.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/charts_morris.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/components_bootstrap_fileinput.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/components_bootstrap_maxlength.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/components_bootstrap_select.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/components_bootstrap_select_splitter.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/components_bootstrap_switch.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/components_bootstrap_tagsinput.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/components_bootstrap_touchspin.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/components_code_editors.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/components_color_pickers.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/components_context_menu.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/components_date_time_pickers.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/components_editors.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/components_form_tools.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/components_ion_sliders.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/components_knob_dials.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/components_multi_select.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/components_noui_sliders.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/components_select2.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/components_typeahead.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/dashboard_2.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/dashboard_3.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/ecommerce_index.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/ecommerce_orders.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/ecommerce_orders_view.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/ecommerce_products.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/ecommerce_products_edit.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/elements_cards.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/elements_lists.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/elements_overlay.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/elements_ribbons.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/elements_steps.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/form_controls.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/form_controls_md.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/form_dropzone.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/form_editable.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/form_fileupload.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/form_icheck.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/form_image_crop.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/form_input_mask.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/form_layouts.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/form_validation.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/form_validation_md.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/form_validation_states_md.html",
+		"/C/Users/kxe67/Documents/GitHub/T4-Template-Refresh-2016/framework/library_full/form_wizard.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 157.0,
+		"where_history":
+		[
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\assets",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\assets\\layout\\css",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\assets",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\assets",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"",
+			"<open files>",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\template",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass\\template",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\assets",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\assets",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"C:\\Users\\kxe67\\Documents\\Metronic\\metronic_v4.5.4\\",
+			"C:\\Users\\kxe67\\Documents\\Metronic\\metronic_v4.5.4\\theme\\sass\\layouts\\layout",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\assets",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\assets",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\assets\\layouts",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\assets",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"<open files>",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\library_full",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\assets\\layouts\\layout3",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"<open files>",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\assets\\global\\plugins\\bootstrap",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\assets",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\T4-Template-Refresh-2016\\framework\\sass",
+			"<open files>",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\CWRU-Bootstrap\\Framework",
+			"<current file>",
+			"",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\CWRU-Bootstrap\\Framework\\metronic_v4.5.3\\theme\\sass",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\CWRU-Bootstrap\\Framework\\metronic_v4.5.3\\theme\\admin_3",
+			"C:\\Users\\kxe67\\Documents\\GitHub\\CWRU-Bootstrap\\Framework",
+			"C:\\Users\\kxe67\\Documents\\CWRU-Bootstrap\\metronic_v4.5.3\\theme\\admin_3",
+			"<open files>",
+			"C:\\Users\\kxe67\\Documents\\CWRU-Bootstrap\\metronic_v4.5.3\\theme\\sass",
+			"C:\\Users\\kxe67\\Documents\\CWRU-Bootstrap\\metronic_v4.5.3\\theme\\assets",
+			"C:\\Users\\kxe67\\Documents\\CWRU-Bootstrap\\metronic_v4.5.3\\theme\\admin_3",
+			"C:\\Users\\kxe67\\Documents\\CWRU-Bootstrap\\metronic_v4.5.3\\theme\\sass",
+			"C:\\Users\\kxe67\\Documents\\CWRU-Bootstrap\\metronic_v4.5.3\\theme\\admin_3",
+			"<open files>",
+			"",
+			"C:\\Users\\kxe67\\Documents\\CWRU-Bootstrap\\metronic_v4.5.3\\theme\\admin_3",
+			"<open files>",
+			"C:\\Users\\kxe67\\Documents\\CWRU-Bootstrap\\metronic_v4.5.3\\theme\\assets",
+			"C:\\Users\\kxe67\\Documents\\CWRU-Bootstrap\\metronic_v4.5.3\\theme\\admin_3",
+			"C:\\Users\\kxe67\\Documents\\CWRU-Bootstrap\\",
+			"C:\\Users\\kxe67\\Documents\\CWRU-Bootstrap\\metronic_v4.5.3\\theme\\",
+			"C:\\Users\\kxe67\\Documents\\CWRU-Bootstrap\\metronic_v4.5.3\\theme\\admin_3",
+			"C:\\Users\\kxe67\\Documents\\CWRU-Bootstrap\\metronic_v4.5.3\\theme"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".page-prefooter a",
+			".page-header .page-header-menu li > a > .arrow:before",
+			"menu-search-form",
+			".page-header .page-header-menu li > a > .arrow:before",
+			".page-prefooter",
+			".footer-col-1",
+			"breadcrumb",
+			"bread",
+			"footer .footer-col-2",
+			"footer-col-4",
+			"***/\n",
+			"footer-links",
+			"footer-social",
+			".footer-col",
+			"footer-dept",
+			"footer-about",
+			"footer-block",
+			"page-breadcrumb",
+			"$primary-link-color",
+			"337ab7",
+			"$component-colors",
+			"$footer-scroll-top-icon-color",
+			"scroll-to-top",
+			".page-prefooter",
+			".page-prefooter a",
+			"footer-block",
+			"menu-dropdown-r",
+			"toggler",
+			":focus",
+			"$header-top-menu-bg-hover-color",
+			"focus",
+			"content: \"\\f105\";",
+			".arrow",
+			".arrow:after",
+			".arrow",
+			"form-control",
+			"form class=\"search-form",
+			"form",
+			"display",
+			"search",
+			"searh",
+			"data-hover",
+			"menu-toggler",
+			"@font-face",
+			"border",
+			";\n",
+			"active",
+			"hover",
+			"menu-toggler",
+			"input-group-btn",
+			".input-group-btn",
+			"var",
+			"search-form-cwru",
+			".open",
+			"$header-menu-toggler-width",
+			"menu-toggler",
+			".menu-toggler",
+			"menu-toggler",
+			".menu-toggler",
+			"$font-size-base",
+			"Titillium Web",
+			"$font-size-h1",
+			"padding: 7px",
+			"mega",
+			"60",
+			"font-size",
+			".page-header-top",
+			"page-header-top-height",
+			"$header-logo-container-width",
+			"$header-logo-height",
+			".logo-default",
+			"<li class=\"menu-dropdown classic-menu-dropdown menu-dropdown-r active\">",
+			"https://fonts.googleapis.com/",
+			":focus",
+			" \">",
+			"$header-height-xs",
+			"$header-height",
+			"265",
+			".page-header",
+			"mega-menu-full",
+			"#ced5de",
+			"header-hor-menu-bg-color",
+			".page-header .page-header-menu",
+			"page-header-print",
+			"projection",
+			"page-header-print",
+			"page-boxed",
+			".page-boxed",
+			".top-menu",
+			"fluid-page",
+			"article",
+			"pace",
+			"$header-height",
+			"126",
+			"hidden-sm",
+			"@media",
+			"992",
+			"768",
+			"Titillium Web",
+			"section",
+			"header",
+			"\n                                ",
+			"menu-dropdown-button-dark",
+			"menu-dropdown-r-dark",
+			"menu-dropdown-padding-fix",
+			"components",
+			"focus",
+			"../assets/layouts/layout3/scripts/layout.min.js",
+			"../assets/layouts/layout3/css/custom.min.css",
+			"../assets/layouts/layout3/css/themes/default.min.css",
+			"../assets/layouts/layout3/css/layout.min.css",
+			"hover",
+			"21px",
+			".page-header .page-header-menu .hor-menu",
+			"content: \"\\f104\"",
+			"Fluid",
+			"126",
+			"$general-head-font-color",
+			"$header-mobile-hor-menu-default-bg-color",
+			"@import",
+			"mega-menu-light-mobile",
+			"_mega-menu-light-mobile",
+			"767",
+			"991",
+			"$header-mobile-hor-menu-default-bg-color",
+			"$screen-sm-max",
+			"@media (max-width:",
+			"@media"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"footer-col-4",
+			"footer-col-3",
+			"footer-col-2",
+			"footer-col-1",
+			"search-form",
+			"<li class=\"menu-dropdown classic-menu-dropdown menu-dropdown-r\">",
+			"//fonts.googleapis.com/",
+			"menu-dropdown-button-dark",
+			"menu-dropdown-button",
+			"../assets/layout/scripts/layout.min.js",
+			"../assets/layout/css/custom.min.css",
+			"../assets/layout/css/theme/default.min.css",
+			"../assets/layout/css/layout.min.css",
+			"menu-dropdown-padding-fix",
+			"menu-dropdown-r",
+			"page-header-r",
+			"=\"../assets/cwru/img/",
+			"",
+			"'./minified'",
+			"CWRU-Framework",
+			"",
+			"                        <div class=\"page-toolbar\">\n				<button type=\"button\" class=\"btn grey btn-outline sbold uppercase\">Help</button>\n                        </div>\n",
+			"",
+			"../assets/layouts/scripts/",
+			"/assets/layouts/img/",
+			"../assets/layouts/img/logo-default.jpg",
+			"../assets/layouts/css/",
+			"../assets/layouts/css/layout.min.css",
+			"../assets/global/scripts/quick-sidebar.min.js",
+			"CWRU-Bootstrap",
+			"<a href=\"mailto:ken.edwards@case.edu\">ken.edwards@case.edu</a>",
+			"2015 &copy; Case Western Reserve University.",
+			"",
+			"<span class=\"username username-hide-mobile\">Ken</span>",
+			"<title>CWRU |",
+			"",
+			"Ken Edwards",
+			"0a304e",
+			"/global/css/components.cwru.css",
+			"0a304e",
+			"/layouts/layout3/css/themes/cwru.css",
+			"/layouts/layout3/css/custom.css",
+			"/assets/layouts/layout3/css/cwru.css",
+			"/assets/layouts/layout3/css/custom.css",
+			"/global/scripts/app.cwru.js",
+			"<span class=\"username username-hide-mobile\">Ken</span>",
+			"<p> Components for Page Layouts and Content Types for v2 template. </p>",
+			"info@case.edu",
+			"2015 &copy; Case Western Reserve University",
+			"",
+			"2015 &copy; CWRU",
+			"<title>CWRU",
+			"<!-- \nTemplate v2 // Version 1.0.0\nLast Updated // 01/07/2016 4:22 PM (EST)\n-->\n</html>",
+			"Last Updated // 01/07/2016 4:22 PM (EST)",
+			"Template v2 // Version 1.0.0"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "meancode.media.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ui_so",
+				"T4-Template-Refresh-2016\\framework\\library_full\\ui_socicons.html"
+			],
+			[
+				"ui_soc",
+				"T4-Template-Refresh-2016\\framework\\library_full\\ui_socicons.html"
+			],
+			[
+				"index",
+				"T4-Template-Refresh-2016\\framework\\library_full\\index.html"
+			],
+			[
+				"page_pro",
+				"T4-Template-Refresh-2016\\framework\\library_full\\ui_page_progress_style_2.html"
+			],
+			[
+				"page_user_profile_1",
+				"T4-Template-Refresh-2016\\framework\\library_full\\page_user_profile_1.html"
+			],
+			[
+				"layout_fluid_page",
+				"T4-Template-Refresh-2016\\framework\\library_full\\layout_fluid_page.html"
+			],
+			[
+				"typog",
+				"framework\\library_full\\ui_typography.html"
+			],
+			[
+				"general",
+				"framework\\library_full\\ui_general.html"
+			],
+			[
+				"jquery.min.js",
+				"framework\\assets\\global\\plugins\\jquery.min.js"
+			],
+			[
+				"blank",
+				"framework\\library_full\\layout_blank_page.html"
+			],
+			[
+				"components-form-tools",
+				"framework\\assets\\pages\\scripts\\components-form-tools.js"
+			],
+			[
+				"components_form_tools",
+				"framework\\library_full\\components_form_tools.html"
+			],
+			[
+				"project3.html",
+				"framework\\assets\\global\\plugins\\cubeportfolio\\ajax\\project3.html"
+			],
+			[
+				"portfolio-3.min.js",
+				"framework\\assets\\pages\\scripts\\portfolio-3.min.js"
+			],
+			[
+				"portfolio_3",
+				"framework\\library_full\\page_general_portfolio_3.html"
+			],
+			[
+				"bootstrap",
+				"Framework\\html\\bootstrap.min.css"
+			],
+			[
+				"ui_buttons",
+				"Framework\\metronic_v4.5.3\\theme\\admin_3\\ui_buttons.html"
+			],
+			[
+				"ui_colors",
+				"Framework\\metronic_v4.5.3\\theme\\admin_3\\ui_colors.html"
+			],
+			[
+				"bootstrap.m",
+				"Framework\\metronic_v4.5.3\\theme\\html\\bootstrap.min.css"
+			],
+			[
+				"components.",
+				"metronic_v4.5.3\\theme\\assets\\global\\css\\components.css"
+			],
+			[
+				"page_user",
+				"metronic_v4.5.3\\theme\\admin_3\\page_user_profile_1.html"
+			],
+			[
+				"ui_co",
+				"metronic_v4.5.3\\theme\\admin_3\\ui_colors.html"
+			],
+			[
+				"app.",
+				"metronic_v4.5.3\\theme\\assets\\global\\scripts\\app.cwru.js"
+			],
+			[
+				"ui_col",
+				"metronic_v4.5.3\\theme\\admin_3\\ui_colors.html"
+			],
+			[
+				"inde",
+				"metronic_v4.5.3\\theme\\admin_3\\index.html"
+			],
+			[
+				"cwru",
+				"metronic_v4.5.3\\theme\\assets\\layouts\\layout3\\css\\cwru.css"
+			],
+			[
+				"ui_c",
+				"metronic_v4.5.3\\theme\\admin_3\\ui_colors.html"
+			],
+			[
+				"ind",
+				"metronic_v4.5.3\\theme\\admin_3\\index.html"
+			],
+			[
+				"app.min",
+				"metronic_v4.5.3\\theme\\assets\\global\\scripts\\app.min.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\kxe67\\Documents\\GitHub\\cwru.github.io\\GitHub-Website.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 368.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 339.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
